@@ -1,6 +1,6 @@
 # Harpinder Jot Singh
 
-Hi, I'm **Harpinder**, currently a senior undergraduate pursuing Computer Science at **BITS Pilani, India** with a programming experience of over 3 years in **C/C++, Javascript** and currently exploring various fields within computer science including **Networking, Cloud Computing, Distributed Systems**.
+Hi, I'm **Harpinder**, a senior undergraduate pursuing Computer Science at **BITS Pilani**, India, with a programming experience of over three years in **C/C++, Javascript**, and presently exploring various fields within the computer science including **Networking, Cloud Computing, Distributed Systems**.
 
 ## Find me around the web
 
