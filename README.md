@@ -8,9 +8,9 @@ Hi, I'm **Harpinder**, a senior undergraduate pursuing Computer Science at **BIT
 [<img align="left" alt="Harpinder | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/gmail.svg" />][gmail]
 [<img align="left" alt="Harpinder | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-![](https://komarev.com/ghpvc/?username=singhcoder)
-
 ## Github Stats
+
+![](https://komarev.com/ghpvc/?username=singhcoder)
 
 ![SinghCoder's github stats](https://github-readme-stats.vercel.app/api?username=singhcoder&show_icons=true&theme=radical&count_private=true)
 
