@@ -1,7 +1,9 @@
 # Harpinder Jot Singh (He/Him/His)
 
 I am a developer working at DevRev on bringing developers closer to the customers.
+
 I finished my bachelors in Computer Science from BITS Pilani, and during that time I interned at Nutanix, Salesforce, and IIRS(ISRO).
+
 My main area of expertise lies in backend, systems, and automation work.
 In my free time, I read posts on hacker news, watch some series, or tinker around with random projects on GitHub
 
