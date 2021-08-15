@@ -1,7 +1,9 @@
 # Harpinder Jot Singh (He/Him/His)
 
-**Harpinder** is a CS senior at BITS, India. He has a good understanding of Computer Science fundamentals and a good knowledge of C, C++, and Java. He has software development experience through internships at Nutanix, Salesforce, and IIRS (ISRO), and has done projects in the domain of distributed systems, computer networks, scripting, and automation.
-In his free time, he reads posts on hacker news, listens to music, and watches comedy sitcoms 
+I am a developer working at DevRev on bringing developers closer to the customers.
+I finished my bachelors in Computer Science from BITS Pilani, and during that time I interned at Nutanix, Salesforce, and IIRS(ISRO).
+My main area of expertise lies in backend, systems, and automation work.
+In my free time, I read posts on hacker news, watch some series, or tinker around with random projects on GitHub
 
 ![SinghCoder's github stats](https://github-readme-stats.vercel.app/api?username=singhcoder&show_icons=true&theme=radical&count_private=true)
 
