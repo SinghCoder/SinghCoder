@@ -6,8 +6,6 @@ I did my B.tech in Computer Science from BITS Pilani.
 
 Recently, I have started diving into LLMs era, and tinker around with them in my free time.
 
-![SinghCoder's github stats](https://github-readme-stats.vercel.app/api?username=singhcoder&show_icons=true&theme=radical&count_private=true)
-
 ## Let's talk!
 
 [<img align="left" alt="Harpinder | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/gmail.svg" />][gmail]
