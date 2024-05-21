@@ -1,11 +1,10 @@
-# Harpinder Jot Singh (He/Him/His)
+# Harpinder Jot Singh
 
-I am a developer working at DevRev on bringing developers closer to the customers.
+I am Harpinder, working at [DevRev](https://devrev.ai/) almost since the start of the company. I have experience in building products 0->1, am a generalist by nature, and have worked on multiple projects here at DevRev including the [Snap-in platform](https://docs.devrev.ai/snapins), and ML/LLMOps solution for our AI needs.
 
-I finished my bachelors in Computer Science from BITS Pilani, and during that time I interned at Nutanix, Salesforce, and IIRS(ISRO).
+I did my B.tech in Computer Science from BITS Pilani.
 
-My main area of expertise lies in backend, systems, and automation work.
-In my free time, I read posts on hacker news, watch some series, or tinker around with random projects on GitHub
+Recently, I have started diving into LLMs era, and tinker around with them in my free time.
 
 ![SinghCoder's github stats](https://github-readme-stats.vercel.app/api?username=singhcoder&show_icons=true&theme=radical&count_private=true)
 
