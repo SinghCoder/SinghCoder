@@ -1,10 +1,6 @@
 # Harpinder Jot Singh
 
-I am Harpinder, working at [DevRev](https://devrev.ai/) almost since the start of the company. I have experience in building products 0->1, am a generalist by nature, and have worked on multiple projects here at DevRev including the [Snap-in platform](https://docs.devrev.ai/snapins), and ML/LLMOps solution for our AI needs.
-
-I did my B.tech in Computer Science from BITS Pilani.
-
-Recently, I have started diving into LLMs era, and tinker around with them in my free time.
+Building something new - to solve for the back-and-forth.
 
 ## Let's talk!
 
