@@ -1,6 +1,6 @@
 # Harpinder Jot Singh
 
-Building something new - to solve for the back-and-forth.
+Tinkering! Exploring! Building!
 
 ## Let's talk!
 
